@@ -1,0 +1,18 @@
+Visual Studio Code (1.70.1, ssh-remote, desktop)
+Jupyter Extension Version: 2022.7.1102252217.
+Python Extension Version: 2022.12.0.
+Workspace folder /home/intern3
+info 18:24:25.483: ZMQ install verified.
+ユーザーは実験グループ 'jupyterTest' に属しています
+ユーザーは実験グループ 'jupyterEnhancedDataViewer' に属しています
+info 18:24:26.18: LSP Notebooks experiment is enabled
+info 18:24:26.333: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 18:24:26.621: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+info 19:6:12.851: Shutting down notebooks for 0426ac53-c524-4c52-ac01-7c882d17ffa1
+info 19:6:12.851: Disposing HostJupyterExecution d687964e-b3ca-4526-a93b-5d508340f1ca
+info 19:6:12.851: Disposing super HostJupyterExecution d687964e-b3ca-4526-a93b-5d508340f1ca
+info 19:6:12.851: Disposing HostJupyterExecution d687964e-b3ca-4526-a93b-5d508340f1ca
+info 19:6:12.851: Finished disposing HostJupyterExecution  d687964e-b3ca-4526-a93b-5d508340f1ca
+info 19:6:12.856: Cleaning up server cache d687964e-b3ca-4526-a93b-5d508340f1ca
+info 19:6:12.856: Finished disposing HostJupyterExecution  d687964e-b3ca-4526-a93b-5d508340f1ca

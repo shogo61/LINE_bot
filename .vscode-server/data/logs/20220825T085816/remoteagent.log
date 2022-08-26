@@ -1,0 +1,79 @@
+[2022-08-25 08:58:16.747] [remoteagent] [info] Extension host agent started.
+[2022-08-25 08:58:17.001] [remoteagent] [info] [127.0.0.1][b0dfd2f0][ManagementConnection] New connection established.
+[2022-08-25 08:58:17.048] [remoteagent] [info] [127.0.0.1][696e20e5][ExtensionHostConnection] New connection established.
+[2022-08-25 08:58:17.054] [remoteagent] [info] [127.0.0.1][696e20e5][ExtensionHostConnection] <3737430> Launched Extension Host Process.
+[2022-08-25 08:58:26.787] [remoteagent] [info] [127.0.0.1][b0dfd2f0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 08:58:26.801] [remoteagent] [info] [127.0.0.1][696e20e5][ExtensionHostConnection] <3737430> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 08:58:26.801] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-25 08:58:34.027] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-08-25 08:58:34.027] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-08-25 08:58:34.247] [remoteagent] [info] [127.0.0.1][e0cf8266][ManagementConnection] New connection established.
+[2022-08-25 08:58:34.717] [remoteagent] [info] [127.0.0.1][2cb994d8][ExtensionHostConnection] New connection established.
+[2022-08-25 08:58:34.737] [remoteagent] [info] [127.0.0.1][2cb994d8][ExtensionHostConnection] <3737843> Launched Extension Host Process.
+[2022-08-25 09:03:34.027] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-08-25 12:12:23.375] [remoteagent] [info] [127.0.0.1][2cb994d8][ExtensionHostConnection] The client has reconnected.
+[2022-08-25 12:12:27.414] [remoteagent] [info] [127.0.0.1][e0cf8266][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-25 12:12:27.417] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-25 12:38:43.176] [remoteagent] [info] [127.0.0.1][e0cf8266][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-25 12:38:43.176] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] New connection established.
+[2022-08-25 12:38:43.368] [remoteagent] [info] [127.0.0.1][f42b9f7d][ExtensionHostConnection] New connection established.
+[2022-08-25 12:38:43.410] [remoteagent] [info] [127.0.0.1][f42b9f7d][ExtensionHostConnection] <3910888> Launched Extension Host Process.
+[2022-08-25 12:38:47.774] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-08-25 12:38:47.878] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-08-25 12:38:50.807] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/intern3/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.40
+[2022-08-25 12:38:53.867] [remoteagent] [info] Extracted extension to /home/intern3/.vscode-server/extensions/.be560f4c-752e-4906-9e8e-7365614eb143: ms-python.vscode-pylance
+[2022-08-25 12:38:53.873] [remoteagent] [info] Renamed to /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.40
+[2022-08-25 12:38:53.875] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-08-25 12:38:53.880] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-08-25 12:43:43.269] [remoteagent] [info] [127.0.0.1][e0cf8266][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-08-25 12:43:43.394] [remoteagent] [info] [127.0.0.1][2cb994d8][ExtensionHostConnection] <3737843> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 13:11:33.766] [remoteagent] [info] [127.0.0.1][f42b9f7d][ExtensionHostConnection] The client has reconnected.
+[2022-08-25 13:11:38.639] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-25 13:11:38.640] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-25 13:12:04.185] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-25 13:12:04.186] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] The client has reconnected.
+[2022-08-25 13:12:04.277] [remoteagent] [info] [127.0.0.1][f42b9f7d][ExtensionHostConnection] The client has reconnected.
+[2022-08-25 14:19:19.353] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-25 14:19:19.354] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-25 14:25:21.153] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-25 14:25:21.153] [remoteagent] [info] [127.0.0.1][7338502c][ManagementConnection] New connection established.
+[2022-08-25 14:25:21.222] [remoteagent] [info] [127.0.0.1][0e52af89][ExtensionHostConnection] New connection established.
+[2022-08-25 14:25:21.229] [remoteagent] [info] [127.0.0.1][0e52af89][ExtensionHostConnection] <3994782> Launched Extension Host Process.
+[2022-08-25 14:25:28.443] [remoteagent] [info] [127.0.0.1][7338502c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 14:25:28.461] [remoteagent] [info] [127.0.0.1][0e52af89][ExtensionHostConnection] <3994782> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 14:26:16.426] [remoteagent] [info] [127.0.0.1][7414d762][ManagementConnection] New connection established.
+[2022-08-25 14:26:16.499] [remoteagent] [info] [127.0.0.1][f1cd26b9][ExtensionHostConnection] New connection established.
+[2022-08-25 14:26:16.506] [remoteagent] [info] [127.0.0.1][f1cd26b9][ExtensionHostConnection] <3995609> Launched Extension Host Process.
+[2022-08-25 14:26:38.948] [remoteagent] [info] [127.0.0.1][7414d762][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 14:26:38.966] [remoteagent] [info] [127.0.0.1][f1cd26b9][ExtensionHostConnection] <3995609> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 14:29:44.428] [remoteagent] [info] [127.0.0.1][45c8b613][ManagementConnection] New connection established.
+[2022-08-25 14:29:44.459] [remoteagent] [info] [127.0.0.1][d65bd104][ExtensionHostConnection] New connection established.
+[2022-08-25 14:29:44.467] [remoteagent] [info] [127.0.0.1][d65bd104][ExtensionHostConnection] <3998274> Launched Extension Host Process.
+[2022-08-25 14:29:48.193] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:24:29654)","    at d.updateIcon (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:24:25490)","    at Object.call (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:16:8327)","    at a.onPromise (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:4892)","    at a.onRawMessage (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:4275)","    at /home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:3561","    at f.invoke (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at N.deliver (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at I.fire (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:9:20673)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-08-25 14:29:48.194] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:24:29654)","    at d.updateTitle (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:24:25430)","    at Object.call (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:16:8327)","    at a.onPromise (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:4892)","    at a.onRawMessage (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:4275)","    at /home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:15:3561","    at f.invoke (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at N.deliver (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at I.fire (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/platform/terminal/node/ptyHostMain.js:9:20673)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-08-25 14:29:58.133] [remoteagent] [info] [127.0.0.1][45c8b613][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 14:29:58.149] [remoteagent] [info] [127.0.0.1][d65bd104][ExtensionHostConnection] <3998274> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 14:30:16.499] [remoteagent] [info] [127.0.0.1][6499d6e9][ManagementConnection] New connection established.
+[2022-08-25 14:30:16.552] [remoteagent] [info] [127.0.0.1][f5e9cfa3][ExtensionHostConnection] New connection established.
+[2022-08-25 14:30:16.559] [remoteagent] [info] [127.0.0.1][f5e9cfa3][ExtensionHostConnection] <3998868> Launched Extension Host Process.
+[2022-08-25 14:30:20.568] [remoteagent] [info] [127.0.0.1][6499d6e9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 14:30:20.586] [remoteagent] [info] [127.0.0.1][f5e9cfa3][ExtensionHostConnection] <3998868> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 14:30:21.303] [remoteagent] [info] [127.0.0.1][11706487][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-08-25 14:30:21.365] [remoteagent] [info] [127.0.0.1][f42b9f7d][ExtensionHostConnection] <3910888> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 14:30:21.365] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-25 14:30:27.777] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-08-25 14:30:27.777] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-08-25 14:30:27.976] [remoteagent] [info] [127.0.0.1][0c449e83][ManagementConnection] New connection established.
+[2022-08-25 14:30:28.069] [remoteagent] [info] [127.0.0.1][52e1d403][ExtensionHostConnection] New connection established.
+[2022-08-25 14:30:28.078] [remoteagent] [info] [127.0.0.1][52e1d403][ExtensionHostConnection] <3999142> Launched Extension Host Process.
+[2022-08-25 14:35:27.777] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-08-25 18:04:33.534] [remoteagent] [info] [127.0.0.1][0c449e83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-25 18:04:33.592] [remoteagent] [info] [127.0.0.1][52e1d403][ExtensionHostConnection] <3999142> Extension Host Process exited with code: 0, signal: null.
+[2022-08-25 18:04:33.592] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-25 18:09:33.593] [remoteagent] [info] Last EH closed, shutting down

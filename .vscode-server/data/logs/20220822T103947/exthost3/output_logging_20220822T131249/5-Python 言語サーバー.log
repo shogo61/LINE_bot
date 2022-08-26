@@ -1,0 +1,37 @@
+[Info  - 1:12:52 PM] (775175) Pylance language server 2022.8.30 (pyright ed13daf1) starting
+[Info  - 1:12:52 PM] (775175) Server root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 1:12:52 PM] (775175) Starting service instance "intern3"
+[Info  - 1:12:52 PM] (775175) Notebook support: LSP
+[Info  - 1:12:52 PM] (775175) Interactive window support: LSP
+[Info  - 1:12:52 PM] (775175) No configuration file found.
+[Info  - 1:12:52 PM] (775175) No pyproject.toml file found.
+[Info  - 1:12:52 PM] (775175) Setting pythonPath for service "intern3": "/usr/bin/python3"
+[Warn  - 1:12:52 PM] (775175) stubPath /home/intern3/typings is not a valid directory.
+[Info  - 1:12:52 PM] (775175) Assuming Python version 3.10
+[Info  - 1:12:52 PM] (775175) Assuming Python platform Linux
+[Info  - 1:12:53 PM] (775175) Searching for source files
+[Info  - 1:12:53 PM] (775175) Found 3 source files
+[Info  - 1:12:53 PM] (775175) Background analysis(1) root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.30/dist
+[Info  - 1:12:53 PM] (775175) Background analysis(1) started
+[Info  - 3:49:58 PM] (775175) Searching for source files
+[Info  - 3:49:58 PM] (775175) Found 4 source files
+[Info  - 3:50:03 PM] (775175) Searching for source files
+[Info  - 3:50:03 PM] (775175) Found 4 source files
+[Info  - 4:00:40 PM] (775175) Searching for source files
+[Info  - 4:00:40 PM] (775175) Found 4 source files
+[Info  - 4:43:48 PM] (775175) Searching for source files
+[Info  - 4:43:48 PM] (775175) Found 4 source files
+[Info  - 4:43:48 PM] (775175) Searching for source files
+[Info  - 4:43:48 PM] (775175) Found 4 source files
+[Info  - 4:56:43 PM] (775175) Searching for source files
+[Info  - 4:56:43 PM] (775175) Found 4 source files
+[Info  - 4:57:20 PM] (775175) Searching for source files
+[Info  - 4:57:20 PM] (775175) Found 4 source files
+[Info  - 4:57:23 PM] (775175) Searching for source files
+[Info  - 4:57:23 PM] (775175) Found 4 source files
+[Info  - 4:57:48 PM] (775175) Searching for source files
+[Info  - 4:57:48 PM] (775175) Found 4 source files
+[Info  - 5:53:12 PM] (775175) Searching for source files
+[Info  - 5:53:12 PM] (775175) Found 4 source files
+[Info  - 5:53:12 PM] (775175) Searching for source files
+[Info  - 5:53:12 PM] (775175) Found 4 source files

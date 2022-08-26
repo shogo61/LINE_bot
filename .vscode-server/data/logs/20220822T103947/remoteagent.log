@@ -1,0 +1,42 @@
+[2022-08-22 10:39:47.045] [remoteagent] [info] Extension host agent started.
+[2022-08-22 10:39:47.204] [remoteagent] [info] [127.0.0.1][effddcb8][ManagementConnection] New connection established.
+[2022-08-22 10:39:47.271] [remoteagent] [info] [127.0.0.1][f8e33f5f][ExtensionHostConnection] New connection established.
+[2022-08-22 10:39:47.275] [remoteagent] [info] [127.0.0.1][f8e33f5f][ExtensionHostConnection] <663313> Launched Extension Host Process.
+[2022-08-22 10:39:51.231] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-08-22 10:39:51.231] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-08-22 10:39:51.335] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-08-22 10:39:51.338] [remoteagent] [info] Installing extension: ms-python.python
+[2022-08-22 10:39:54.141] [remoteagent] [info] Downloaded extension: ms-python.python /home/intern3/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.12.1
+[2022-08-22 10:39:55.314] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/intern3/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.30
+[2022-08-22 10:39:56.361] [remoteagent] [info] Extracted extension to /home/intern3/.vscode-server/extensions/.23726c02-2aea-4aa0-837e-da299e2f5676: ms-python.python
+[2022-08-22 10:39:56.367] [remoteagent] [info] Renamed to /home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1
+[2022-08-22 10:39:56.373] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-08-22 10:39:56.377] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-08-22 10:39:58.525] [remoteagent] [info] Extracted extension to /home/intern3/.vscode-server/extensions/.0f68c326-705d-4642-949c-a70121f2ea89: ms-python.vscode-pylance
+[2022-08-22 10:39:58.532] [remoteagent] [info] Renamed to /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.30
+[2022-08-22 10:39:58.533] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-08-22 10:39:58.537] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-08-22 10:40:19.341] [remoteagent] [info] [127.0.0.1][effddcb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-22 10:40:19.352] [remoteagent] [info] [127.0.0.1][f8e33f5f][ExtensionHostConnection] <663313> Extension Host Process exited with code: 0, signal: null.
+[2022-08-22 10:40:19.352] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-22 10:40:36.162] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-08-22 10:40:36.162] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-08-22 10:40:36.394] [remoteagent] [info] [127.0.0.1][e950fc2a][ManagementConnection] New connection established.
+[2022-08-22 10:40:36.485] [remoteagent] [info] [127.0.0.1][912d8f04][ExtensionHostConnection] New connection established.
+[2022-08-22 10:40:36.495] [remoteagent] [info] [127.0.0.1][912d8f04][ExtensionHostConnection] <664268> Launched Extension Host Process.
+[2022-08-22 10:45:36.164] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-08-22 11:39:08.230] [remoteagent] [info] [127.0.0.1][912d8f04][ExtensionHostConnection] The client has reconnected.
+[2022-08-22 11:39:11.165] [remoteagent] [info] [127.0.0.1][e950fc2a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-22 11:39:11.167] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-22 13:12:47.669] [remoteagent] [info] [127.0.0.1][e950fc2a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-22 13:12:47.670] [remoteagent] [info] [127.0.0.1][7a3a43f7][ManagementConnection] New connection established.
+[2022-08-22 13:12:47.882] [remoteagent] [info] [127.0.0.1][76390a97][ExtensionHostConnection] New connection established.
+[2022-08-22 13:12:47.890] [remoteagent] [info] [127.0.0.1][76390a97][ExtensionHostConnection] <775081> Launched Extension Host Process.
+[2022-08-22 13:17:47.787] [remoteagent] [info] [127.0.0.1][e950fc2a][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-08-22 13:17:47.883] [remoteagent] [info] [127.0.0.1][912d8f04][ExtensionHostConnection] <664268> Extension Host Process exited with code: 0, signal: null.
+[2022-08-22 18:00:19.827] [remoteagent] [info] [127.0.0.1][7a3a43f7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-22 18:00:19.877] [remoteagent] [info] [127.0.0.1][76390a97][ExtensionHostConnection] <775081> Extension Host Process exited with code: 0, signal: null.
+[2022-08-22 18:00:19.877] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-22 18:05:19.878] [remoteagent] [info] Last EH closed, shutting down

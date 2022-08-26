@@ -1,0 +1,3 @@
+import os
+
+os.environ['NEW_KEY'] = 'H5eJQcpwwCTQO3WWQiJzwntbu1AlqilP8reYup5QdDyGjNp07+hgjEuIQltlL1eP1g5LdpNAxZkQwr4liCI8NY/jr9zl5MmihTrm8XvPoqahyCEk2RcY4zAQC+StDWO8C4ewOBPNgAxgdsO3lQRBLQdB04t89/1O/w1cDnyilFU='

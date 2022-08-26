@@ -1,0 +1,24 @@
+[2022-08-26 10:16:47.191] [remoteagent] [info] Extension host agent started.
+[2022-08-26 10:16:47.618] [remoteagent] [info] [127.0.0.1][005781c6][ManagementConnection] New connection established.
+[2022-08-26 10:16:47.686] [remoteagent] [info] [127.0.0.1][f2396fcd][ExtensionHostConnection] New connection established.
+[2022-08-26 10:16:47.691] [remoteagent] [info] [127.0.0.1][f2396fcd][ExtensionHostConnection] <672970> Launched Extension Host Process.
+[2022-08-26 10:16:49.698] [remoteagent] [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode'
+[2022-08-26 10:16:49.698] [remoteagent] [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/settings.json'
+[2022-08-26 10:16:49.698] [remoteagent] [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/tasks.json'
+[2022-08-26 10:16:49.699] [remoteagent] [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/launch.json'
+[2022-08-26 10:16:49.845] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:49.845] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-08-26 10:16:49.941] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:49.941] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-08-26 10:16:50.027] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:50.027] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-08-26 10:16:50.110] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:50.111] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-08-26 10:16:50.194] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:50.194] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-08-26 10:16:50.280] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[2022-08-26 10:16:50.281] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-08-26 10:17:19.644] [remoteagent] [info] [127.0.0.1][005781c6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-26 10:17:19.659] [remoteagent] [info] [127.0.0.1][f2396fcd][ExtensionHostConnection] <672970> Extension Host Process exited with code: 0, signal: null.
+[2022-08-26 10:17:19.659] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-26 10:22:19.661] [remoteagent] [info] Last EH closed, shutting down

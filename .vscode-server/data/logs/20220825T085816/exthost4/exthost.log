@@ -1,0 +1,12 @@
+[2022-08-25 14:25:22.578] [exthost] [info] Extension host with pid 3994782 started
+[2022-08-25 14:25:22.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-25 14:25:22.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-25 14:25:22.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-25 14:25:22.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-25 14:25:23.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-25 14:25:23.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-25 14:25:23.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-25 14:25:23.258] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-25 14:25:23.342] [exthost] [info] Eager extensions activated
+[2022-08-25 14:25:28.445] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-25 14:25:28.453] [exthost] [info] Extension host with pid 3994782 exiting with code 0

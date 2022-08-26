@@ -1,0 +1,138 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:32885 (IPv4)
+Extension host agent listening on 32885
+
+[10:16:47] Extension host agent started.
+[10:16:47] [127.0.0.1][005781c6][ManagementConnection] New connection established.
+[10:16:47] [127.0.0.1][f2396fcd][ExtensionHostConnection] New connection established.
+[10:16:47] [127.0.0.1][f2396fcd][ExtensionHostConnection] <672970> Launched Extension Host Process.
+[10:16:49] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode'
+[10:16:49] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/settings.json'
+[10:16:49] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/tasks.json'
+[10:16:49] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/home/miura/.vscode/launch.json'
+[10:16:49] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:49] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[10:16:49] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:49] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[10:16:50] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:50] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[10:16:50] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:50] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[10:16:50] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:50] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[10:16:50] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/miura)
+[10:16:50] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/miura'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/miura'
+}
+[10:17:19] [127.0.0.1][005781c6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:17:19] [127.0.0.1][f2396fcd][ExtensionHostConnection] <672970> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:17:19] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[10:22:19] Last EH closed, shutting down

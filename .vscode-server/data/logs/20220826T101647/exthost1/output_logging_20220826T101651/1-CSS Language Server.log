@@ -1,0 +1,244 @@
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: starting
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54197
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70363)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81398)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: starting
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54262
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at h.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:73883)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81712)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:16:52 AM] Connection to server got closed. Server will restart.
+[Error - 10:16:52 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] CSS Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54197
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70363)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81398)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54262
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at h.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:73883)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81712)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:16:52 AM] Connection to server got closed. Server will restart.
+[Error - 10:16:52 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] CSS Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54197
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70363)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81398)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54262
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at h.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:73883)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81712)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:16:52 AM] Connection to server got closed. Server will restart.
+[Error - 10:16:52 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] CSS Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54197
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70363)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81398)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54262
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at h.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:73883)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81712)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:16:52 AM] Connection to server got closed. Server will restart.
+[Error - 10:16:52 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] CSS Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Client CSS Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54197
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70363)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81398)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at R.shutdown (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:107211)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:106893)
+	at R.stop (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:265877)
+	at R.handleConnectionError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:112755)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111582
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:110748
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:54262
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at h.fireError (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:73883)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81712)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+	at onErrorNT (node:internal/child_process:477:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:16:52 AM] The CSS Language Server server crashed 5 times in the last 3 minutes. The server will not be restarted. See the output for more information.
+[Error - 10:16:52 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] CSS Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:16:52 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 

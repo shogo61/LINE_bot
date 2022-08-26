@@ -1,0 +1,56 @@
+[2022-08-22 13:12:49.152] [exthost] [info] Extension host with pid 775081 started
+[2022-08-22 13:12:49.155] [exthost] [error] Error: EEXIST: file already exists, open '/home/intern3/.vscode-server/data/User/workspaceStorage/f3a325c66c55f205923b39c08f783d3b/vscode.lock'
+[2022-08-22 13:12:49.158] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/f3a325c66c55f205923b39c08f783d3b/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-08-22 13:12:49.161] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/f3a325c66c55f205923b39c08f783d3b/vscode.lock': The lock does not look stale, elapsed: 56 ms, giving up.
+[2022-08-22 13:12:49.163] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/f3a325c66c55f205923b39c08f783d3b-1/vscode.lock': Lock acquired.
+[2022-08-22 13:12:49.578] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 13:12:49.847] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 13:12:50.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-22 13:12:50.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-22 13:12:50.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-22 13:12:50.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-22 13:12:50.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-22 13:12:51.020] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-08-22 13:12:51.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 13:12:51.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 13:12:51.233] [exthost] [info] Eager extensions activated
+[2022-08-22 13:12:51.469] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 13:12:52.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 13:12:52.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 13:12:52.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 15:50:00.440] [exthost] [error] [ms-python.python] provider FAILED
+[2022-08-22 15:50:00.440] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131745)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131694)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:117222)
+	at G (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2297898)
+	at c (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2305716)
+	at /home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-22 15:50:00.856] [exthost] [error] [ms-python.python] provider FAILED
+[2022-08-22 15:50:00.856] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131745)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131694)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:117222)
+	at G (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2297898)
+	at c (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2305716)
+	at /home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-22 15:51:43.743] [exthost] [error] [ms-python.python] provider FAILED
+[2022-08-22 15:51:43.744] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131745)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:131694)
+	at new t (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:78:117222)
+	at G (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2297898)
+	at c (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335083)
+	at Object.t.map (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2335169)
+	at Object.asDocumentSymbols (/home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2305716)
+	at /home/intern3/.vscode-server/extensions/ms-python.python-2022.12.1/out/client/extension.js:2:2244261
+	at async a.provideDocumentSymbols (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/workbench/api/node/extensionHostProcess.js:87:37442)
+[2022-08-22 18:00:19.828] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-22 18:00:19.828] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/f3a325c66c55f205923b39c08f783d3b-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-22 18:00:19.862] [exthost] [info] Extension host with pid 775081 exiting with code 0

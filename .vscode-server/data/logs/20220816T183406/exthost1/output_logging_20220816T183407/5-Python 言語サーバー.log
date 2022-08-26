@@ -1,0 +1,25 @@
+[Info  - 6:34:10 PM] (24313) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 6:34:10 PM] (24313) Server root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:34:10 PM] (24313) Starting service instance "intern3"
+[Info  - 6:34:10 PM] (24313) Notebook support: LSP
+[Info  - 6:34:10 PM] (24313) Interactive window support: LSP
+[Info  - 6:34:10 PM] (24313) No configuration file found.
+[Info  - 6:34:10 PM] (24313) No pyproject.toml file found.
+[Info  - 6:34:10 PM] (24313) Setting pythonPath for service "intern3": "/usr/bin/python3"
+[Warn  - 6:34:10 PM] (24313) stubPath /home/intern3/typings is not a valid directory.
+[Info  - 6:34:10 PM] (24313) Assuming Python version 3.10
+[Info  - 6:34:10 PM] (24313) Assuming Python platform Linux
+[Info  - 6:34:11 PM] (24313) Searching for source files
+[Info  - 6:34:11 PM] (24313) Found 3 source files
+[Info  - 6:34:11 PM] (24313) Background analysis(1) root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:34:11 PM] (24313) Background analysis(1) started
+[Info  - 6:46:15 PM] (24313) No configuration file found.
+[Info  - 6:46:15 PM] (24313) No pyproject.toml file found.
+[Info  - 6:46:15 PM] (24313) Setting pythonPath for service "intern3": "/usr/bin/python3"
+[Warn  - 6:46:15 PM] (24313) stubPath /home/intern3/typings is not a valid directory.
+[Info  - 6:46:15 PM] (24313) Assuming Python version 3.10
+[Info  - 6:46:15 PM] (24313) Assuming Python platform Linux
+[Info  - 6:46:15 PM] (24313) Searching for source files
+[Info  - 6:46:15 PM] (24313) Found 3 source files
+[Info  - 6:46:16 PM] (24313) Searching for source files
+[Info  - 6:46:16 PM] (24313) Found 3 source files

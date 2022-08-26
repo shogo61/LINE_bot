@@ -1,0 +1,35 @@
+[Info  - 6:27:34 PM] (8706) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 6:27:34 PM] (8706) Server root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:27:34 PM] (8706) Starting service instance "intern3"
+[Info  - 6:27:34 PM] (8706) Notebook support: LSP
+[Info  - 6:27:34 PM] (8706) Interactive window support: LSP
+[Info  - 6:27:34 PM] (8706) No configuration file found.
+[Info  - 6:27:34 PM] (8706) No pyproject.toml file found.
+[Info  - 6:27:34 PM] (8706) Setting pythonPath for service "intern3": "/usr/bin/python3"
+[Warn  - 6:27:34 PM] (8706) stubPath /home/intern3/typings is not a valid directory.
+[Info  - 6:27:34 PM] (8706) Assuming Python version 3.10
+[Info  - 6:27:34 PM] (8706) Assuming Python platform Linux
+[Info  - 6:27:34 PM] (8706) Searching for source files
+[Info  - 6:27:34 PM] (8706) Found 2 source files
+[Info  - 6:27:34 PM] (8706) Background analysis(1) root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:27:34 PM] (8706) Background analysis(1) started
+[Info  - 6:28:05 PM] (8706) Searching for source files
+[Info  - 6:28:05 PM] (8706) Found 2 source files
+[Info  - 6:28:06 PM] (8706) Searching for source files
+[Info  - 6:28:06 PM] (8706) Found 2 source files
+[Info  - 6:31:27 PM] (8706) Searching for source files
+[Info  - 6:31:27 PM] (8706) Found 2 source files
+[Info  - 6:31:36 PM] (8706) Searching for source files
+[Info  - 6:31:36 PM] (8706) Found 2 source files
+[Info  - 6:36:06 PM] (8706) Searching for source files
+[Info  - 6:36:06 PM] (8706) Found 3 source files
+[Info  - 6:36:09 PM] (8706) Searching for source files
+[Info  - 6:36:09 PM] (8706) Found 3 source files
+[Info  - 7:01:15 PM] (8706) Searching for source files
+[Info  - 7:01:15 PM] (8706) Found 3 source files
+[Info  - 7:01:16 PM] (8706) Searching for source files
+[Info  - 7:01:16 PM] (8706) Found 3 source files
+[Info  - 7:02:09 PM] (8706) Searching for source files
+[Info  - 7:02:09 PM] (8706) Found 3 source files
+[Info  - 7:02:11 PM] (8706) Searching for source files
+[Info  - 7:02:11 PM] (8706) Found 3 source files

@@ -1,0 +1,53 @@
+[2022-08-26 10:16:51.925] [exthost] [info] Extension host with pid 672970 started
+[2022-08-26 10:16:51.935] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/79b5f0cc56094051dcea441296b611d0/vscode.lock': Lock acquired.
+[2022-08-26 10:16:52.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-08-26 10:16:52.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-26 10:16:52.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-26 10:16:52.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-26 10:16:52.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-26 10:16:52.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-26 10:16:52.898] [exthost] [error] Activating extension vscode.css-language-features failed due to an error:
+[2022-08-26 10:16:52.898] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:60174)
+	at Object.dispose (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111536)
+	at R.handleConnectionClosed (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111814)
+	at R.handleConnectionClosed (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:266271)
+	at /home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:111624
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at Z (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:48530)
+	at r.invoke (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:61883)
+	at o.fire (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62648)
+	at d.fireClose (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:70460)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/extensions/css-language-features/client/dist/node/cssClientMain.js:1:81436)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)
+[2022-08-26 10:16:53.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-26 10:16:53.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-26 10:16:53.066] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-26 10:16:53.155] [exthost] [info] Eager extensions activated
+[2022-08-26 10:16:53.667] [exthost] [error] Activating extension streetsidesoftware.code-spell-checker failed due to an error:
+[2022-08-26 10:16:53.667] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:421458)
+	at Object.dispose (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:473139)
+	at C.handleConnectionClosed (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:473417)
+	at C.handleConnectionClosed (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:628772)
+	at /home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:473227
+	at r.invoke (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:423168)
+	at o.fire (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:423933)
+	at Z (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:409814)
+	at r.invoke (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:423168)
+	at o.fire (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:423933)
+	at d.fireClose (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:431745)
+	at ChildProcess.<anonymous> (/home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0/packages/client/dist/extension.js:2:442719)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)
+[2022-08-26 10:17:19.644] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-26 10:17:19.645] [exthost] [info] Lock '/home/intern3/.vscode-server/data/User/workspaceStorage/79b5f0cc56094051dcea441296b611d0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-26 10:17:19.651] [exthost] [info] Extension host with pid 672970 exiting with code 0

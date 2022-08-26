@@ -1,0 +1,35 @@
+[Info  - 6:24:26 PM] (8381) Pylance language server 2022.8.20 (pyright 888eb243) starting
+[Info  - 6:24:26 PM] (8381) Server root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:24:26 PM] (8381) Starting service instance "intern3"
+[Info  - 6:24:26 PM] (8381) Notebook support: LSP
+[Info  - 6:24:26 PM] (8381) Interactive window support: LSP
+[Info  - 6:24:26 PM] (8381) No configuration file found.
+[Info  - 6:24:26 PM] (8381) No pyproject.toml file found.
+[Info  - 6:24:26 PM] (8381) Setting pythonPath for service "intern3": "/usr/bin/python3"
+[Warn  - 6:24:26 PM] (8381) stubPath /home/intern3/typings is not a valid directory.
+[Info  - 6:24:27 PM] (8381) Assuming Python version 3.10
+[Info  - 6:24:27 PM] (8381) Assuming Python platform Linux
+[Info  - 6:24:27 PM] (8381) Searching for source files
+[Info  - 6:24:27 PM] (8381) Found 2 source files
+[Info  - 6:24:27 PM] (8381) Background analysis(1) root directory: /home/intern3/.vscode-server/extensions/ms-python.vscode-pylance-2022.8.20/dist
+[Info  - 6:24:27 PM] (8381) Background analysis(1) started
+[Info  - 6:24:27 PM] (8381) Searching for source files
+[Info  - 6:24:27 PM] (8381) Found 2 source files
+[Info  - 6:27:01 PM] (8381) Searching for source files
+[Info  - 6:27:01 PM] (8381) Found 2 source files
+[Info  - 6:27:03 PM] (8381) Searching for source files
+[Info  - 6:27:03 PM] (8381) Found 2 source files
+[Info  - 6:27:29 PM] (8381) Searching for source files
+[Info  - 6:27:29 PM] (8381) Found 2 source files
+[Info  - 6:27:31 PM] (8381) Searching for source files
+[Info  - 6:27:31 PM] (8381) Found 2 source files
+[Info  - 6:28:05 PM] (8381) Searching for source files
+[Info  - 6:28:05 PM] (8381) Found 2 source files
+[Info  - 6:28:06 PM] (8381) Searching for source files
+[Info  - 6:28:06 PM] (8381) Found 2 source files
+[Info  - 6:31:27 PM] (8381) Searching for source files
+[Info  - 6:31:27 PM] (8381) Found 2 source files
+[Info  - 6:31:27 PM] (8381) Searching for source files
+[Info  - 6:31:27 PM] (8381) Found 2 source files
+[Info  - 6:31:36 PM] (8381) Searching for source files
+[Info  - 6:31:36 PM] (8381) Found 2 source files

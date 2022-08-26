@@ -1,0 +1,22 @@
+Experiment 'pythonaacf' is active
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+Python interpreter path: /usr/bin/python3
+> /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2022.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.12.0/pythonFiles/interpreterInfo.py
+> /bin/python3 ./.vscode-server/extensions/ms-python.python-2022.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.12.0/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> /usr/bin/python3 -m autopep8 --diff --line-range 1 28 ./index.py.f4073dce1bf4f8728a480c5323a2b7f7.tmp
+cwd: .
+> /usr/bin/python3 -c "import autopep8"
+> /usr/bin/python3 -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /usr/bin/python3 -c "import pip"
+> /usr/bin/python3 -c "import autopep8"
+> /usr/bin/python3 -m autopep8 --diff --line-range 1 13 ./database.py.1329af15e53c80c8257b23f914a840d9.tmp
+cwd: .
+> /usr/bin/python3 -m autopep8 --diff --line-range 1 1 ./database.py.1329af15e53c80c8257b23f914a840d9.tmp
+cwd: .

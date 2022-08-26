@@ -1,0 +1,30 @@
+[2022-08-24 08:54:50.637] [remoteagent] [info] Extension host agent started.
+[2022-08-24 08:54:51.568] [remoteagent] [info] [127.0.0.1][562eb939][ManagementConnection] New connection established.
+[2022-08-24 08:54:51.569] [remoteagent] [info] [127.0.0.1][4469fbb8][ExtensionHostConnection] New connection established.
+[2022-08-24 08:54:51.574] [remoteagent] [info] [127.0.0.1][4469fbb8][ExtensionHostConnection] <2678060> Launched Extension Host Process.
+[2022-08-24 12:11:00.952] [remoteagent] [info] [127.0.0.1][4469fbb8][ExtensionHostConnection] The client has reconnected.
+[2022-08-24 12:11:04.915] [remoteagent] [info] [127.0.0.1][562eb939][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-24 12:11:04.916] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/intern3/.vscode-server/bin/6d9b74a70ca9c7733b29f0456fd8195364076dda/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-24 13:08:54.822] [remoteagent] [info] [127.0.0.1][562eb939][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-24 13:08:54.823] [remoteagent] [info] [127.0.0.1][028755f2][ManagementConnection] New connection established.
+[2022-08-24 13:08:54.892] [remoteagent] [info] [127.0.0.1][277687ed][ExtensionHostConnection] New connection established.
+[2022-08-24 13:08:54.899] [remoteagent] [info] [127.0.0.1][277687ed][ExtensionHostConnection] <2877605> Launched Extension Host Process.
+[2022-08-24 13:09:53.580] [remoteagent] [info] [127.0.0.1][028755f2][ManagementConnection] The client has reconnected.
+[2022-08-24 13:09:53.719] [remoteagent] [info] [127.0.0.1][277687ed][ExtensionHostConnection] The client has reconnected.
+[2022-08-24 13:11:01.810] [remoteagent] [info] [127.0.0.1][028755f2][ManagementConnection] The client has reconnected.
+[2022-08-24 13:11:01.903] [remoteagent] [info] [127.0.0.1][277687ed][ExtensionHostConnection] The client has reconnected.
+[2022-08-24 13:13:54.917] [remoteagent] [info] [127.0.0.1][562eb939][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-08-24 13:13:55.031] [remoteagent] [info] [127.0.0.1][4469fbb8][ExtensionHostConnection] <2678060> Extension Host Process exited with code: 0, signal: null.
+[2022-08-24 13:27:48.685] [remoteagent] [info] Getting Manifest... streetsidesoftware.code-spell-checker
+[2022-08-24 13:27:48.801] [remoteagent] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2022-08-24 13:27:49.461] [remoteagent] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/intern3/.vscode-server/data/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.6.0
+[2022-08-24 13:27:49.740] [remoteagent] [info] Extracted extension to /home/intern3/.vscode-server/extensions/.b5e2d6fc-3d72-495f-b975-ac30fc53ae06: streetsidesoftware.code-spell-checker
+[2022-08-24 13:27:49.745] [remoteagent] [info] Renamed to /home/intern3/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.6.0
+[2022-08-24 13:27:49.748] [remoteagent] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2022-08-24 13:27:49.749] [remoteagent] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2022-08-24 18:02:24.917] [remoteagent] [info] [127.0.0.1][028755f2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-24 18:02:24.966] [remoteagent] [info] [127.0.0.1][277687ed][ExtensionHostConnection] <2877605> Extension Host Process exited with code: 0, signal: null.
+[2022-08-24 18:02:24.966] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-24 18:07:24.967] [remoteagent] [info] Last EH closed, shutting down
